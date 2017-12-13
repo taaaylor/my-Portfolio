@@ -1,70 +1,113 @@
-a:link {
-	text-decoration:none;
-	color:black;
 }
 
-a:visited {
+
+a:visited
+{
+
 	color:black;
+
 }
 
 a:hover {
-	color:grey;
+
+	color:#C5C5C5;
+
 }
+
 
 body {
+
 	font-family: 'Halant', serif;
+
+	margin-top:50px;
 }
+
 
 .mainHeader {
+
 	text-align:center;
+
 }
+
 
 .mainHeader h1 {
+
 	font-size:40px;
+
 }
+
 
 .mainHeaderDivider {
+
 	width:30%;
+
 	margin-bottom:10px;
+
 }
+
 
 .mainNavTable {
-	/*border:1px solid black;*/
-	width:500px;
+
+	width: 25%;
+
 	margin-bottom:15px;
+
 	margin-left:auto;
+
 	margin-right:auto;
+
 }
+
 
 .mainNavTable .mainNavRow th {
-	/*border:1px solid black;*/
 	padding-left:10px;
+
 	padding-right:10px;
+
 	padding-bottom:10px;
+
 	text-align:center;
+
 }
+
 
 .mainHeaderImage {
+
 	text-align:center;
+
 }
+
 
 .mainHeaderDescription {
-	/*border:1px solid black;*/
-	width:50%;
+	width:30%;
+
+	text-align: center;
 	margin-left:auto;
+
 	margin-right:auto;
+
 	margin-top:15px;
+
 }
+
 
 .subHeader {
-	/*border:1px solid black;*/
+
 	width:33%;
+
 	height:50px;
+
 	float:left;
+
 	margin-top:30px;
+
 }
 
+
 .subHeader h2 {
+
 	font-size:25px;
+
 	text-align:center;
+
 }
